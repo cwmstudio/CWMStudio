@@ -17,9 +17,9 @@ I believe in clean engineering, meaningful products, creative freedom, and conti
 <div align="left">
 
 [![Website](https://img.shields.io/badge/Website-CWMStudio-185FA5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cwmstudio.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Masood%20Ur%20Rehman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Masood%20Ur%20Rehman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/therealmasood)
 [![YouTube](https://img.shields.io/badge/YouTube-CodeWithMasood-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@CodeWithMasood)
-[![X](https://img.shields.io/badge/X-CWMStudio-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_X_URL)
+[![X](https://img.shields.io/badge/X-CWMStudio-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cwmstudio)
 
 </div>
 
